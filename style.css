@@ -1,0 +1,19 @@
+.container{
+    padding: 10px;
+    margin-top: 20px;
+    
+
+}
+.myMargin{
+    margin: 5px;
+}
+.myMargin2{
+    margin:3px
+}
+footer{
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    color:black;
+    background-color: darkcyan;
+}
